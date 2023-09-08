@@ -1,0 +1,4 @@
+- Hello! My name is zeequicko, but the name zeequicko is taken so I have to use frzeequicko.
+- I'm dedicated to getting workarounds on school blockers.
+- I know a bit of coding, mostly Lua.
+- I've been on github for a bit, but I lost my old acc so I made a new one!
